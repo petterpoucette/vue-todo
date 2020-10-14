@@ -1,6 +1,6 @@
 # vue-todo
 
-This is a todo list that I to practice some of the knowledge I have ganed in the Vue mastery beginners courses.
+This is a todo list that I made to practice some of the knowledge I have ganed in the Vue mastery beginners courses. The server is a local json file running trough json-server.
 
 ## Project setup
 
