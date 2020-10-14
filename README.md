@@ -1,6 +1,6 @@
 # vue-todo
 
-This is a todo list that I to practice the knowledge I have ganed in the Vue mastery beginners courses
+This is a todo list that I to practice some of the knowledge I have ganed in the Vue mastery beginners courses.
 
 ## Project setup
 
